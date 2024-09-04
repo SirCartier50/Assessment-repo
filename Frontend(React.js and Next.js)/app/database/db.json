@@ -1,0 +1,8 @@
+{
+    "user": [
+      { "id": "1", "name": "David", "access": "admin" },
+      { "id": "2", "name": "Bill", "access": "admin" },
+      { "id": "3", "name": "Philip", "access": "member" },
+      { "id": "4", "name": "Mark", "access": "member" }
+    ]
+}
