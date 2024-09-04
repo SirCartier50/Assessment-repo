@@ -9,7 +9,7 @@ I used nodemon to restart the server anytime there's a change in the files. So t
 ```bash
 npm run devStart
 
-server is live: http://localhost:8080
+open this to visit server: http://localhost:8080
 go to this url to access api: http://localhost:8080/data
 ```
 
