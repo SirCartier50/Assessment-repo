@@ -3,6 +3,18 @@
 ## Frameworks and tools
 Express.js and PostgreSQL
 
+## Get Started
+I used nodemon to restart the server anytime there's a change in the files. So to run it I used:
+
+```bash
+npm run devStart
+
+server is live: http://localhost:8080
+go to this url to access api: http://localhost:8080/data
+```
+
+
+
 ## Task 4
 
 ### Summary
