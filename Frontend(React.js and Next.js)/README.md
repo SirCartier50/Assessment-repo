@@ -27,7 +27,7 @@ Open [http://localhost:8000](http://localhost:8000) with your browser.
 ### Summary
 For the first task I made a todo list component that takes in input from a textfield, using a button, and adds a clickable checkbox with the task right after it.
 
-### Thoughts and challenges
+### Thoughts and Challenges
 when designing the component I wanted to make a list of tasks that gave a feature to show that the task was done so I went with a checkbox that can be clicked to do just that. I had a little trouble with keeping the list in the middle and aligned in a column so I u
 
 ## Task 2 & 3
@@ -36,7 +36,7 @@ when designing the component I wanted to make a list of tasks that gave a featur
 
 For the second and third tasks I made a Next.js app that starts off at a homepage with buttons that navigates to an about page, users page, and a page that uses the todo list component to provide a todo list tool on the app. In the users page, there's a button that when pressed, fetches all user data from the JSON server and displays it using components from Material-UI. It first fetches a server side file named route.js which makes a GET request to the server and returns the response to the frontend.
 
-### THoughts and challenges
+### Thoughts and Challenges
 When designing the user page, I wanted user data to be displayed like a spreadsheet to show all their information, which possed challenging when trying to align because I had issues like data not displaying in columns per user. I ended up solving this and found a component that would give it a top to down look and centered it to make it look more organized under the User List title.
 
 
