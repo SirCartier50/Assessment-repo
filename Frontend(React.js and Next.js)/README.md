@@ -3,7 +3,7 @@
 ## Frameworks and tools
 Next.js,
 Material-UI (React UI framework),
-Json server,
+Json server
 
 ## Getting Started
 
