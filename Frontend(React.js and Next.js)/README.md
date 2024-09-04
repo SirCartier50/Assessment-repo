@@ -20,7 +20,7 @@ To run the Json server:
 json-server --watch app/database/db.json --port 8000
 Open [http://localhost:8000](http://localhost:8000) with your browser.
 
-
+```
 
 ## Task 1
 
