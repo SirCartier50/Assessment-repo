@@ -1,9 +1,9 @@
 # Frontend
 
 ## Frameworks and tools
-Next.js
-Material-UI (React UI framework)
-Json server
+Next.js,
+Material-UI (React UI framework),
+Json server,
 
 ## Getting Started
 
@@ -17,7 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 To run the Json server:
 
-```bash
 json-server --watch app/database/db.json --port 8000
 Open [http://localhost:8000](http://localhost:8000) with your browser.
 
