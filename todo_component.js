@@ -3,10 +3,11 @@ import { useState } from "react";
 
 
 function Todo(){
-
+    //create use states for the todo list and items
     const[item, setItem] = useState('')
     const[list, setList] = useState([])
 
+    //function for adding items into the todo list array
     const addItemToList = () => {
         if (item != []) {
             setList([...list, item]);
@@ -14,6 +15,7 @@ function Todo(){
         }
     };
 
+    //display the todo list
     return(
             <Box 
                 width="100vw" 
